@@ -5,6 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "aioconsole>=0.8.2",
+    "fastmcp>=2.14.3",
+    "mcp>=1.25.0",
     "openai>=2.13.0",
+    "oracledb>=3.4.1",
     "python-dotenv>=1.2.1",
 ]
